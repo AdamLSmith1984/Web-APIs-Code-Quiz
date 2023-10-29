@@ -3,7 +3,7 @@
 // DOM elements
 var questionE1 = document.querySelector("#questions");
 var timerE1 = document.querySelector("#time");
-var choicesE1 = document.querySelector("choices");
+var choicesE1 = document.querySelector("#choices");
 var submitBtn = document.querySelector("#submit");
 var startBtn = document.querySelector("#start");
 var initialsE1 = document.querySelector("#initials");

@@ -29,7 +29,8 @@ var questions = [
     },
     {
         title: "Boolean operators that can be used in JavaScript include:",
-        choices: ["'And' Operator &&", "'Or' Operator ||", "'Not' Operator !", "All the above"],
+        choices: ["'And' Operator &&", "'Or' Operator ||", "'Not' Operator !", "All of the above"],
+        answer: "All of the above"
     },
 
 ];
